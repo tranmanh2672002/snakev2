@@ -54,11 +54,7 @@ void Menu(bool &play, bool &menu, bool &running, bool &in_game)
                 return;
             }
         }
-        if (e.type = SDL_MOUSEBUTTONDOWN)
-        {
-
-        }
-    }
+        
 }
 
 
